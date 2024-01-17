@@ -1,4 +1,6 @@
 # Welcome to my profile! 
+![](./src/header_.png)
+# My skills
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChocoboQJJ)
   
